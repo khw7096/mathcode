@@ -1,5 +1,5 @@
 # mathcode
-- [factorial.md]
+- (factorial.md)
 
 #latex and mactex
 - latex : https://en.wikibooks.org/wiki/LaTeX/Mathematics
