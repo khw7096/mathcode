@@ -14,7 +14,7 @@
 
 - product 기호를 이용해서 수식을 정의하면 아래와 같다.
 
-![alt factorial](https://raw.githubusercontent.com/khw7096/mathcode/master/images/factorial05.png)
+> ![alt factorial](https://raw.githubusercontent.com/khw7096/mathcode/master/images/factorial05.png)
 
 # latex
 ```
