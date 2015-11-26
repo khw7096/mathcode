@@ -12,6 +12,10 @@
 
 ![alt factorial](https://raw.githubusercontent.com/khw7096/mathcode/master/images/factorial04.png)
 
+- product 기호를 이용해서 수식을 정의하면 아래와 같다.
+
+![alt factorial](https://raw.githubusercontent.com/khw7096/mathcode/master/images/factorial05.png)
+
 # latex
 ```
 n! = 1 \times 2 \times 3 \times \ldots n
