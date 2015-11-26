@@ -10,3 +10,5 @@
 ```
 n! = 1 \times 2 \times 3 \times \ldots n
 ```
+- link
+- http://mathforum.org/library/drmath/view/57907.html
