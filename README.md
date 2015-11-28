@@ -1,6 +1,7 @@
 # math
 - [factorial](factorial.md)
 - [linear algebra](linearalgebra.md)
+
 # physical science
 - [material](material.md)
 
